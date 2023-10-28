@@ -1,2 +1,2 @@
-# git-clon-file
+# git-clone-file
 Smit Bhavsar 
